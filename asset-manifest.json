@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/StanleySomba.github.io/static/css/main.03e5c4f5.css",
+    "main.js": "/StanleySomba.github.io/static/js/main.f2aa7a52.js",
+    "static/media/HandshakeAgreement.jpg": "/StanleySomba.github.io/static/media/HandshakeAgreement.29cff528e10fad8befe1.jpg",
+    "static/media/StanleyImage.jpg": "/StanleySomba.github.io/static/media/StanleyImage.fa5bba314a0679e11476.jpg",
+    "static/media/IMG_7727.jpg": "/StanleySomba.github.io/static/media/IMG_7727.9a29eaea80578c150774.jpg",
+    "static/media/ComputerAnalysis.jpg": "/StanleySomba.github.io/static/media/ComputerAnalysis.bdbc2b99200c7242d092.jpg",
+    "static/media/IMG_0454.jpg": "/StanleySomba.github.io/static/media/IMG_0454.82ef64b594392c84e6b1.jpg",
+    "static/media/PHOTO-2023-04-12-11-21-50.jpg": "/StanleySomba.github.io/static/media/PHOTO-2023-04-12-11-21-50.e519732726d6322546d6.jpg",
+    "index.html": "/StanleySomba.github.io/index.html",
+    "main.03e5c4f5.css.map": "/StanleySomba.github.io/static/css/main.03e5c4f5.css.map",
+    "main.f2aa7a52.js.map": "/StanleySomba.github.io/static/js/main.f2aa7a52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03e5c4f5.css",
+    "static/js/main.f2aa7a52.js"
+  ]
+}
